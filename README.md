@@ -1,0 +1,1 @@
+Check out all the files for complelte knowledge of DIY CNC Foam cutte rmachine. All the stl/solidworks parts are provided with updated grbl firmware for controlling 4 independent axis using esp32 microcontroller.
